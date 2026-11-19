@@ -1,0 +1,5 @@
+package model;
+
+public enum Skill {
+    BIRD_HANDLING, MAMMAL_HANDLING, REPTILE_HANDLING, WATER_RESCUE, CLIMBING, FIRST_AID
+}
